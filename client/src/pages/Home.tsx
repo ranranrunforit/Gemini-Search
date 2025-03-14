@@ -57,9 +57,9 @@ export function Home() {
         </form>
 
         <div className="mt-8 text-center text-sm text-gray-500 dark:text-gray-400 animate-fade-in space-y-1">
-          <div>Powered by Gemini 2.0</div>
+          <div>Powered by Gemini 2.0 Flash Thinking Experimental</div>
           <div>
-            Created by <a href="http://x.com/ammaar" target="_blank" rel="noopener noreferrer" className="hover:text-gray-800 dark:hover:text-gray-300 transition-colors">@ammaar</a>
+           Save hours of work with Deep Research as your personal research assistant
           </div>
         </div>
       </div>
