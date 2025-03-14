@@ -1,6 +1,6 @@
 # Gemini Search
 
-A Perplexity-style search engine powered by Google's Gemini 2.0 Flash model with grounding through Google Search. Get AI-powered answers to your questions with real-time web sources and citations.
+A Perplexity-style search engine powered by Google's Gemini 2.0 Flash Thinking Experimental model with grounding through Google Search. Get AI-powered answers to your questions with real-time web sources and citations.
 
 
 ![Gif Demo Capture 2025-03-14 at 16 41 33](Demo.gif)
