@@ -59,7 +59,7 @@ export function Home() {
         <div className="mt-8 text-center text-sm text-gray-500 dark:text-gray-400 animate-fade-in space-y-1">
           <div>Powered by Gemini 2.0 Flash Thinking Experimental</div>
           <div>
-           Save hours of work with Deep Research as your personal research assistant
+           Save hours of work with your personal research assistant
           </div>
         </div>
       </div>
