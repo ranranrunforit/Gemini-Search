@@ -3,8 +3,7 @@
 A Perplexity-style search engine powered by Google's Gemini 2.0 Flash model with grounding through Google Search. Get AI-powered answers to your questions with real-time web sources and citations.
 
 
-
-![Kapture 2025-01-04 at 14 35 14](https://github.com/user-attachments/assets/2302898e-03ae-40a6-a16c-301d6b91c5af)
+![Gif Demo Capture 2025-03-14 at 16 41 33](Demo.gif)
 
 
 ## Features
